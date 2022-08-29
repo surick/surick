@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surick
 - 👀 I’m interested in game and code
 - 🌱 I’m currently learning C and OS
-- 💞️ I’m looking to collaborate on some opensource group like apache
+- 💞️ I’m looking to collaborate on some opensource group like linux
 - 📫 How to reach me --> email:i@evilcry.com
 
 <!---
